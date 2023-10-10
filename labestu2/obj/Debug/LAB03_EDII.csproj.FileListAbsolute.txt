@@ -1,0 +1,16 @@
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LAB03_EDII.exe.config
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LAB03_EDII.exe
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LAB03_EDII.pdb
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\ARBOL_AVL.dll
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\Huffman.dll
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LZW.dll
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\Newtonsoft.Json.dll
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\ARBOL_AVL.pdb
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\Huffman.pdb
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LZW.pdb
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\Newtonsoft.Json.xml
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\LAB03_EDII.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\LAB03_EDII.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\LAB03_EDII.csproj.CopyComplete
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\LAB03_EDII.exe
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\LAB03_EDII.pdb

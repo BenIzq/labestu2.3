@@ -1,0 +1,10 @@
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\Labestu2.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\Labestu2.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\LAB03_EDII.exe
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\LAB03_EDII.pdb
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LAB03_EDII.exe.config
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LAB03_EDII.exe
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\LAB03_EDII.pdb
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\Newtonsoft.Json.dll
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\bin\Debug\Newtonsoft.Json.xml
+C:\Users\benja\OneDrive\Desktop\LAB03_EDII-main\LAB03_EDII-main\LAB03_EDII\LAB03_EDII\LAB03_EDII\obj\Debug\Labestu2.csproj.CopyComplete
